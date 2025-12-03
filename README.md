@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_jinsung1017)](https://solved.ac/dev_jinsung1017/)
+
+
 
 <!--
 **Joojinsung1017/Joojinsung1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
