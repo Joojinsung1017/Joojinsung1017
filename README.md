@@ -10,9 +10,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_m101707/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jinsung/)
 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/CMP-4285F4?style=flat-square&logo=jetbrains&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude%20AI-191919?style=flat-square&logo=anthropic&logoColor=white" />
 
 <br/><br/>
